@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex: 1; 
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoImg {
+    width: 50%;
+    resize-mode: contain;
+}
